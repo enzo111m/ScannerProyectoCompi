@@ -2,10 +2,10 @@ public class EjemploIF {
 	
 	public static void main(String args[]) {
 		if (true) {
-			System.out.println("Primer ejemplo de IF");
+			System.out.printl("Primer ejemplo de IF");
 		}
 		if (true){
-			System.out.println("Segundo ejemplo de IF");
+			System.out.printl("Segundo ejemplo de IF");
 		}
 	}
 }
